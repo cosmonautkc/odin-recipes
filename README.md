@@ -4,7 +4,7 @@ Overview:
 
 In this project, I am going to be building a basic recipe website using HTML. There will be a main index page, with
 links to a few recipes I have chosen. Using HTML, I am going to demonstrate using links, images, various different
-tags and elements, attributes, and fundamental knowledge and structure of a HTML webpage.
+tags, elements, attributes, and fundamental knowledge and structure of a HTML webpage.
 
 Objectives:
 
