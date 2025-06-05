@@ -31,3 +31,23 @@ div h1 {
   margin: 0 auto;
   padding: 20px 20px 7px;
 }
+
+.home-btn a {
+  text-decoration: none;
+  color: #2a2b2a;
+  padding: 5px 15px;
+}
+
+.home-btn {
+  border-radius: 25px;
+  font-family: monospace;
+  font-size: 20px;
+  margin: 15px auto 15px;
+  background: #8bd7d2;
+  border-style: none;
+}
+
+.home-btn:hover {
+  background: #5fb3ae;
+  box-shadow: 1px 1px lightgray;
+}
