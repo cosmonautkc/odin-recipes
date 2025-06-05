@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #f8f4e3;
+  font-family: monospace;
+  text-align: center;
+}
+
+div.container {
+  border-style: solid;
+  border: #2a2b2a 5px 5px;
+  height: auto;
+  width: 800px;
+  margin: auto;
+  padding: 0 150px 0 150px;
+}
+
+div.menu {
+  border-style: solid;
+  border: #2a2b2a 5px 5px;
+  border-bottom: none;
+  height: auto;
+  width: 800px;
+  margin: 50px auto 0;
+  padding: 0 150px 0 150px;
+}
+
+div h1 {
+  margin: 0 auto;
+  padding: 20px 20px 7px;
+}
+
+.home-btn a {
+  text-decoration: none;
+  color: #2a2b2a;
+  padding: 5px 15px;
+}
+
+.home-btn {
+  border-radius: 25px;
+  font-family: monospace;
+  font-size: 20px;
+  margin: 15px auto 15px;
+  background: #e5446d;
+  border-style: none;
+}
+
+.home-btn:hover {
+  background: #b62f51;
+  box-shadow: 1px 1px lightgray;
+}
+
+.ingredients,
+.steps {
+  text-align: left;
+  display: inline-block;
+}
+
+.steps {
+  margin-bottom: 20px;
+}
+
+.steps ol ul,
+.ingredients ul {
+  line-height: 20px;
+}
+
+.top {
+  border-radius: 25px;
+  font-family: monospace;
+  font-size: 20px;
+  margin: 15px auto 15px;
+  background: #e5446d;
+  border-style: none;
+}
+
+.top a {
+  text-decoration: none;
+  color: #2a2b2a;
+  padding: 5px 15px;
+}
+
+.top:hover {
+  background: #b62f51;
+  box-shadow: 1px 1px lightgray;
+}
+
+div.menu2 {
+  border-style: solid;
+  border: #2a2b2a 5px 5px;
+  border-top: none;
+  height: auto;
+  width: 800px;
+  margin: 0 auto 50px;
+  padding: 0 150px 0 150px;
+}
