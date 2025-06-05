@@ -7,3 +7,9 @@ html {
 .recipes {
   list-style-type: none;
 }
+
+#title {
+  font-size: 50px;
+  color: #2a2b2a;
+  padding: 12px;
+}
