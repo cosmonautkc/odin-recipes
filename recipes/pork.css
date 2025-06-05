@@ -1,11 +1,11 @@
 * {
-  text-align: center;
   box-sizing: border-box;
 }
 
 html {
   background-color: #f8f4e3;
   font-family: monospace;
+  text-align: center;
 }
 
 div.container {
@@ -50,4 +50,10 @@ div h1 {
 .home-btn:hover {
   background: #5fb3ae;
   box-shadow: 1px 1px lightgray;
+}
+
+.ingredients,
+.steps {
+  text-align: left;
+  display: inline-block;
 }
