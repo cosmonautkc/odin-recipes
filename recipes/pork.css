@@ -57,3 +57,12 @@ div h1 {
   text-align: left;
   display: inline-block;
 }
+
+.steps {
+  margin-bottom: 20px;
+}
+
+.steps ol ul,
+.ingredients ul {
+  line-height: 20px;
+}
