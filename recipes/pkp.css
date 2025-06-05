@@ -43,12 +43,12 @@ div h1 {
   font-family: monospace;
   font-size: 20px;
   margin: 15px auto 15px;
-  background: #e5446d;
+  background: #f47a94;
   border-style: none;
 }
 
 .home-btn:hover {
-  background: #b62f51;
+  background: #e5446d;
   box-shadow: 1px 1px lightgray;
 }
 
@@ -72,7 +72,7 @@ div h1 {
   font-family: monospace;
   font-size: 20px;
   margin: 15px auto 15px;
-  background: #e5446d;
+  background: #f47a94;
   border-style: none;
 }
 
@@ -83,7 +83,7 @@ div h1 {
 }
 
 .top:hover {
-  background: #b62f51;
+  background: #e5446d;
   box-shadow: 1px 1px lightgray;
 }
 

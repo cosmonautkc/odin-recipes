@@ -56,11 +56,11 @@ ul.recipes-list {
 }
 
 .recipe.two {
-  background: #e5446d;
+  background: #f47a94;
 }
 
 .two:hover {
-  background: #b62f51;
+  background: #e5446d;
   box-shadow: 5px 5px lightgrey;
 }
 
