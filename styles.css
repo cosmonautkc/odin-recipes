@@ -3,3 +3,7 @@ html {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
+
+.recipes {
+  list-style-type: none;
+}
