@@ -18,7 +18,6 @@ html {
   border-radius: 50px;
   font-family: monospace;
   font-size: 40px;
-  text-decoration: none;
   border: 0;
   padding: 10px 50px;
   margin-bottom: 40px;
@@ -34,5 +33,13 @@ html {
 }
 
 .r1 {
-  background: #706c61;
+  background: #8bd7d2;
+}
+
+.r2 {
+  background: #e5446d;
+}
+
+.r3 {
+  background: #ff8966;
 }
