@@ -11,7 +11,6 @@ html {
 div.container {
   border-style: solid;
   border: #2a2b2a 5px 5px;
-  border-top: none;
   height: auto;
   width: 800px;
   margin: auto;
@@ -21,6 +20,7 @@ div.container {
 div.menu {
   border-style: solid;
   border: #2a2b2a 5px 5px;
+  border-bottom: none;
   height: auto;
   width: 800px;
   margin: 50px auto 0;
@@ -65,4 +65,34 @@ div h1 {
 .steps ol ul,
 .ingredients ul {
   line-height: 20px;
+}
+
+.top {
+  border-radius: 25px;
+  font-family: monospace;
+  font-size: 20px;
+  margin: 15px auto 15px;
+  background: #8bd7d2;
+  border-style: none;
+}
+
+.top a {
+  text-decoration: none;
+  color: #2a2b2a;
+  padding: 5px 15px;
+}
+
+.top:hover {
+  background: #5fb3ae;
+  box-shadow: 1px 1px lightgray;
+}
+
+div.menu2 {
+  border-style: solid;
+  border: #2a2b2a 5px 5px;
+  border-top: none;
+  height: auto;
+  width: 800px;
+  margin: 0 auto 50px;
+  padding: 0 150px 0 150px;
 }
