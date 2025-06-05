@@ -2,6 +2,7 @@ html {
   background-color: #f8f4e3;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .recipes {
@@ -11,5 +12,8 @@ html {
 #title {
   font-size: 50px;
   color: #2a2b2a;
-  padding: 12px;
+  padding: 24px 24px;
+  margin: 20px auto;
+  width: auto;
+  height: 200px;
 }
