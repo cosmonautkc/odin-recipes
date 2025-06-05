@@ -1,8 +1,11 @@
+* {
+  text-align: center;
+  box-sizing: border-box;
+}
+
 html {
   background-color: #f8f4e3;
   font-family: "Courier New", Courier, monospace;
-  text-align: center;
-  box-sizing: border-box;
 }
 
 .recipes {
@@ -10,10 +13,10 @@ html {
 }
 
 #title {
-  font-size: 50px;
+  font-size: 70px;
   color: #2a2b2a;
   padding: 24px 24px;
-  margin: 20px auto;
-  width: auto;
-  height: 200px;
+  margin: 50px auto 0;
+  width: fit-content;
+  height: auto;
 }
