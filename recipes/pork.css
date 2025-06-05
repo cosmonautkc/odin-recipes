@@ -8,11 +8,11 @@ html {
   font-family: monospace;
 }
 
-body {
-  margin: 100px 300px;
-}
-
 div.container {
-  border: 5px;
-  background-color: #e1dece;
+  border-style: solid;
+  border: #2a2b2a 5px 5px;
+  height: auto;
+  width: 800px;
+  margin: 50px auto;
+  padding: 0 150px 0 150px;
 }
