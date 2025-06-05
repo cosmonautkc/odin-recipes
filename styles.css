@@ -21,6 +21,15 @@ html {
   height: auto;
 }
 
+#subheading {
+  font-size: 20px;
+  margin: auto;
+  color: #2a2b2a;
+  padding: 12px 0 24px 0;
+  width: fit-content;
+  height: auto;
+}
+
 .recipes-list .recipe {
   border-radius: 50px;
   font-family: monospace;
