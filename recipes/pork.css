@@ -26,3 +26,8 @@ div.menu {
   margin: 50px auto 0;
   padding: 0 150px 0 150px;
 }
+
+div h1 {
+  margin: 0 auto;
+  padding: 20px 20px 7px;
+}
