@@ -26,8 +26,14 @@ html {
   font-family: monospace;
   font-size: 40px;
   border: 0;
-  padding: 10px 50px;
-  margin-bottom: 40px;
+  margin: 0 auto 50px;
+  height: 60px;
+  width: 500px;
+}
+
+.recipe a {
+  text-decoration: none;
+  color: #2a2b2a;
 }
 
 .recipe.one {
