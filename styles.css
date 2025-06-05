@@ -49,10 +49,25 @@ html {
   background: #8bd7d2;
 }
 
+.one:hover {
+  background: #5fb3ae;
+  box-shadow: 5px 5px lightgrey;
+}
+
 .recipe.two {
   background: #e5446d;
 }
 
+.two:hover {
+  background: #b62f51;
+  box-shadow: 5px 5px lightgrey;
+}
+
 .recipe.three {
   background: #ff8966;
+}
+
+.three:hover {
+  background: #cc6240;
+  box-shadow: 5px 5px lightgrey;
 }
